@@ -4,6 +4,7 @@ date: "2026-05-31"
 categories: ["Renungan"]
 tags: ["renungan", "khotbah minggu"]
 status: "publish"
+type: "post"
 ---
 
 Kita ingin mengikuti Tuhan, tetapi hati penuh pertanyaan. Kenapa demikian? karena kita percaya kepada Tuhan, tetapi masih ada banyak hal yang tidak kita mengerti. Ayat ini mengajarkan satu kebenaran yang tegas, perihal ketaatan kepada Tuhan tidak boleh bergantung pada pengertian kita. Lihat para murid yang datang ke galilea, mereka juga belum mengetahui masa depan mereka. Mereka masih membawa luka karena penyaliban Yesus, masih bergumul dengan ketakutan, dan masih memiliki banyak pertanyaan. Namun meskipun demikian mereka tetap memilih untuk berangkat.

@@ -10,6 +10,9 @@ taxonomy:
         - renungan
 ---
 
+# Menjadi Saksi Allah Tritunggal
+## (Matius 28 : 16 - 20)
+
 Kita ingin mengikuti Tuhan, tetapi hati penuh pertanyaan. Kenapa demikian? karena kita percaya kepada Tuhan, tetapi masih ada banyak hal yang tidak kita mengerti. Ayat ini mengajarkan satu kebenaran yang tegas, perihal ketaatan kepada Tuhan tidak boleh bergantung pada pengertian kita. Lihat para murid yang datang ke galilea, mereka juga belum mengetahui masa depan mereka. Mereka masih membawa luka karena penyaliban Yesus, masih bergumul dengan ketakutan, dan masih memiliki banyak pertanyaan. Namun meskipun demikian mereka tetap memilih untuk berangkat.
 
 Saat ini banyak sekali orang menginginkan Tuhan menjelaskan seluruh rencanaNya terlebih dahulu sebelum mereka taat. Tetapi murid menunjukkan hal yang berbeda. Mereka taat lebih dahulu baru kemudian Tuhan menyatakan kehendakNya. Inilah pergumulan banyak orang percaya saat ini, kita ingin Tuhan menunjukkan seluruh jalan hidup kita, bagaimana masa depan pekerjaan, bagaimana keadaan keluarga. Namun Tuhan tidak mencari orang yang mengetahui semua jawaban, tetapi Tuhan mencari orang yang tetap taat ketika belum semua Jawaban diberikan.

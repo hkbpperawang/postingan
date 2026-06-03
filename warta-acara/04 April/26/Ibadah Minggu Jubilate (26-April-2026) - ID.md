@@ -1,6 +1,6 @@
 ---
 title: "Ibadah Minggu Jubilate (26-April-2026) - ID"
-post_date: "2026-05-03 02:29:59"
+post_date: "2026-04-26 02:29:59"
 post_excerpt: ""
 post_status: "publish"
 type: "post"

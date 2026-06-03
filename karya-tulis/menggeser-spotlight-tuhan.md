@@ -1,6 +1,6 @@
 ---
 title: "Menggeser Spotlight Tuhan"
-post_date: "2026-05-31 06:28:59"
+post_date: "2026-03-31 06:28:59"
 post_excerpt: ""
 post_status: "publish"
 type: "post"

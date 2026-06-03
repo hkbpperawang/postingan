@@ -1,5 +1,5 @@
 ---
-title: "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) - BTK.md"
+title: "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) - BTK"
 post_date: "2026-04-19 02:30:59"
 post_excerpt: ""
 post_status: "publish"

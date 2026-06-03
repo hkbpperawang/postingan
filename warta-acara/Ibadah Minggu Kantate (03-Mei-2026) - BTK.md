@@ -1,5 +1,5 @@
 ---
-title: "Ibadah Minggu Kantate (03-Mei-2026) - ID"
+title: "Ibadah Minggu Kantate (03-Mei-2026) - BTK"
 post_date: "2026-05-03 02:29:59"
 post_excerpt: ""
 post_status: "publish"

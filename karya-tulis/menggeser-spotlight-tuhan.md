@@ -4,7 +4,8 @@ post_date: "2026-03-31 06:28:59"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
-featured_image: "_images\jesus-spotlight.jpeg"
+custom_fields:
+  fifu_image_url: "https://i.pinimg.com/1200x/64/e8/01/64e801ca5039c82057f00fcdbf4aacc3.jpg"
 taxonomy:
     category:
         - karya-tulis

@@ -5,7 +5,10 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-  fifu_image_url: "https://i.pinimg.com/1200x/5c/7b/0d/5c7b0d6482daf74b62672ba0ca60cf72.jpg"
+    fifu_image_url: "https://i.pinimg.com/1200x/5c/7b/0d/5c7b0d6482daf74b62672ba0ca60cf72.jpg"
+    _siteseo_analysis_target_kw: "Aku Menyanyi Bagi Tuhan (Keluaran 15 : 1 - 14)"
+    _siteseo_titles_title: "Aku Menyanyi Bagi Tuhan (Keluaran 15 : 1 - 14)"
+    _siteseo_titles_desc: "Dalam Keluaran 15:1-14, nyanyian bangsa Israel bukanlah nyanyian yang direncanakan sebelumnya. Nyanyian ini lahir dari momen yang sangat dalam, momen ketika mereka baru saja diselamatkan dari kematian."
 taxonomy:
     category:
         - renungan

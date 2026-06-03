@@ -5,7 +5,10 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-  fifu_image_url: "https://i.pinimg.com/1200x/64/e8/01/64e801ca5039c82057f00fcdbf4aacc3.jpg"
+    fifu_image_url: "https://i.pinimg.com/1200x/64/e8/01/64e801ca5039c82057f00fcdbf4aacc3.jpg"
+    _siteseo_analysis_target_kw: "Menggeser Spotlight Tuhan"
+    _siteseo_titles_title: "Menggeser Spotlight Tuhan"
+    _siteseo_titles_desc: "Dalam semangat pelayanan di kalangan pemuda gereja, pernahkah kita berhenti sejenak dan bertanya: Seperti apa bentuk pelayanan yang sesungguhnya?"
 taxonomy:
     category:
         - karya-tulis

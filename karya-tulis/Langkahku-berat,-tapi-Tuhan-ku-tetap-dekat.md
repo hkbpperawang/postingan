@@ -5,7 +5,10 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-  fifu_image_url: "https://i.pinimg.com/1200x/9f/9a/36/9f9a36bf7d3822f6e1118638e0c3c264.jpg"
+    fifu_image_url: "https://i.pinimg.com/1200x/9f/9a/36/9f9a36bf7d3822f6e1118638e0c3c264.jpg"
+    _siteseo_analysis_target_kw: "Langkahku berat, tapi Tuhan-ku tetap dekat"
+    _siteseo_titles_title: "Langkahku berat, tapi Tuhan-ku tetap dekat"
+    _siteseo_titles_desc: "Seringkali kita merasa, melangkah dalam perjalanan hidup ini sangat sulit dan penuh tantangan. Tiap langkah yang diambil terasa seperti beban berat yang harus dipikul, dan seakan-akan tidak ada jalan keluar dari segala kesulitan yang datang."
 taxonomy:
     category:
         - karya-tulis

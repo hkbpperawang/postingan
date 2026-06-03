@@ -5,7 +5,10 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-  fifu_image_url: "https://i.pinimg.com/1200x/18/28/46/18284669f7839acef6bdc7ba961ff196.jpg"
+    fifu_image_url: "https://i.pinimg.com/1200x/18/28/46/18284669f7839acef6bdc7ba961ff196.jpg"
+    _siteseo_analysis_target_kw: "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 - 20)"
+    _siteseo_titles_title: "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 - 20)"
+    _siteseo_titles_desc: "Kita ingin mengikuti Tuhan, tetapi hati penuh pertanyaan. Kenapa demikian? karena kita percaya kepada Tuhan, tetapi masih ada banyak hal yang tidak kita mengerti."
 taxonomy:
     category:
         - renungan

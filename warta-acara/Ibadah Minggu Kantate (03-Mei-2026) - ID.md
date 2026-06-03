@@ -11,7 +11,9 @@ custom_fields:
     _siteseo_titles_desc: "Warta Jemaat dan Tata Acara Ibadah Minggu Kantate Minggu 03 Mei 2026. Bahasa Indonesia."
 taxonomy:
     category:
-        - karya-tulis
+        - warta-acara
+            - b-indonesia
+        - ibadah-minggu
 ---
 
 [embeddoc url="https://drive.google.com/file/d/1NVyo8knEjlKFmfJ6rdvmj4upGolI_c1G/preview?usp=drive_web" viewer="drive"]

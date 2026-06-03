@@ -4,7 +4,8 @@ post_date: "2026-04-18 06:28:59"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
-featured_image: "_images\yesus-dan-murid.jpg"
+custom_fields:
+  fifu_image_url: "https://i.pinimg.com/1200x/9f/9a/36/9f9a36bf7d3822f6e1118638e0c3c264.jpg"
 taxonomy:
     category:
         - karya-tulis

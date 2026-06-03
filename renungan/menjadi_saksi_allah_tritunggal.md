@@ -4,7 +4,8 @@ post_date: "2026-05-31 06:28:59"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
-featured_image: "https://i.pinimg.com/1200x/18/28/46/18284669f7839acef6bdc7ba961ff196.jpg"
+custom_fields:
+  fifu_image_url: "https://i.pinimg.com/1200x/18/28/46/18284669f7839acef6bdc7ba961ff196.jpg"
 taxonomy:
     category:
         - renungan

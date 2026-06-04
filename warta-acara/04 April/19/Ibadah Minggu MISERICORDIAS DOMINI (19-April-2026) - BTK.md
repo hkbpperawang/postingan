@@ -15,5 +15,6 @@ taxonomy:
         - warta-acara
         - ibadah-minggu
 ---
-
+<div>
 [embeddoc url="https://drive.google.com/file/d/1aTYZtWiO7U9mMexfb29_waKF1oK4huA_/preview?usp=drive_web" viewer="drive"]
+</div>

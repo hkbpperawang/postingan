@@ -5,7 +5,6 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-    fifu_image_url: "https://i.pinimg.com/1200x/03/83/37/0383375e7ac2f5747ff79723ae6e77ea.jpg"
     _siteseo_analysis_target_kw: "Mengarahkan Hati dan Jiwa untuk Mencari Tuhan, 1 Tawarikh 22 : 14 - 19"
     _siteseo_titles_title: "Mengarahkan Hati dan Jiwa untuk Mencari Tuhan ( 1 Tawarikh 22 : 14 - 19 )"
     _siteseo_titles_desc: "Dalam Keluaran 15:1-14, nyanyian bangsa Israel bukanlah nyanyian yang direncanakan sebelumnya. Nyanyian ini lahir dari momen yang sangat dalam, momen ketika mereka baru saja diselamatkan dari kematian."
@@ -13,6 +12,8 @@ taxonomy:
     category:
         - renungan
 ---
+
+![](https://i.pinimg.com/1200x/03/83/37/0383375e7ac2f5747ff79723ae6e77ea.jpg)
 
 ## Mengarahkan Hati dan Jiwa untuk Mencari Tuhan
 

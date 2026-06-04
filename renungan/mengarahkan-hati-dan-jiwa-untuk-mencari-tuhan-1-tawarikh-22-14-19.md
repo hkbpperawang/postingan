@@ -14,8 +14,9 @@ taxonomy:
         - renungan
 ---
 
-# Mengarahkan Hati dan Jiwa untuk Mencari Tuhan
-## ( 1 Tawarikh 22 : 14 - 19 )
+## Mengarahkan Hati dan Jiwa untuk Mencari Tuhan
+
+### ( 1 Tawarikh 22 : 14 - 19 )
 
 Arah hati adalah arah hidup. Hati merupakan pusat dari seluruh kehidupan manusia, tempat dimana lahirnya keinginan, pikiran, dan keputusan. Karena itu, apa yang ada didalam hati seseorang akan mempengaruhi bagaimana ia melihat hidup, bagaimana ia mengambil keputusan, dan bagaimana ia menjalani hari-harinya. Ketika seseorang menaruh hatinya pada sesuatu, secara perlahan seluruh hidupnya akan bergerak ke arah itu. Misalnya jika seseorang mengikat hatinya pada kekayaan, maka ia akan mengatur hidupnya untuk selalu mengejar uang. Dan kemungkinan ia juga memilih pekerjaan tertentu, dan bisa saja mengorbankan segala sesuatu hanya untuk mencapai keinginannya. Hal ini terjadi bukan karena ada yang memaksa, melainkan ini bisa terjadi karena hatinya sudah memiliki tujuan kesana.
 

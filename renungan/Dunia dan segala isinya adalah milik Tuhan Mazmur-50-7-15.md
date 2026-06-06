@@ -1,6 +1,6 @@
 ---
 title: "Dunia dan segala isinya adalah milik Tuhan ( Mazmur 50 : 7 - 15 )"
-post_date: "2026-06-07 15:35:59"
+post_date: "2026-06-06 15:35:59"
 post_excerpt: ""
 post_status: "publish"
 type: "post"

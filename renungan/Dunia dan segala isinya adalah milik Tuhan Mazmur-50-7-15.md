@@ -5,6 +5,7 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
+    fifu_image_url: "https://i.pinimg.com/1200x/26/3c/5b/263c5ba791b08ddec5c92cda50a66c10.jpg"
     _siteseo_analysis_target_kw: "Dunia dan segala isinya adalah milik Tuhan, Mazmur 50 : 7 - 15"
     _siteseo_titles_title: "Dunia dan segala isinya adalah milik Tuhan ( Mazmur 50 : 7 - 15 )"
     _siteseo_titles_desc: "Sering kali tanpa sadar kita datang kepada Tuhan dengan cara berpikir yang keliru. Kita merasa telah memberi banyak kepada Tuhan melalui persembahan, pelayanan, waktu, tenaga atau berbagai bentuk pengorbanan lainnya."
@@ -12,8 +13,6 @@ taxonomy:
     category:
         - renungan
 ---
-
-![](https://i.pinimg.com/1200x/26/3c/5b/263c5ba791b08ddec5c92cda50a66c10.jpg)
 
 ## Dunia dan segala isinya adalah milik Tuhan
 

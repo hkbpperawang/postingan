@@ -1,5 +1,5 @@
 ---
-title: "Ibadah Minggu I Setelah Trinitatis (07-Jun-2026) - ID.md"
+title: "Ibadah Minggu I Setelah Trinitatis (07-Jun-2026) - ID"
 post_date: "2026-06-06 19:29:59"
 post_excerpt: ""
 post_status: "publish"

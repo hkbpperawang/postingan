@@ -5,7 +5,7 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-    fifu_image_url: "https://i.pinimg.com/1200x/03/83/37/0383375e7ac2f5747ff79723ae6e77ea.jpg"
+    fifu_image_url: "https://i.pinimg.com/1200x/07/77/36/077736490e90dafef39f3ea7375c7f54.jpg"
     _siteseo_analysis_target_kw: "Tuhan dekat Tatkala Aku Memanggil, Ratapan 3 : 49 - 57"
     _siteseo_titles_title: "Tuhan dekat Tatkala Aku Memanggil ( Ratapan 3 : 49 - 57 )"
     _siteseo_titles_desc: "Tuhan dekat Tatkala Aku Memanggil ( Ratapan 3 : 49 - 57 ). Sebelum Yesus dimuliakan diatas gunung, ia terlebih dahulu berbicara tentang penderitaanNya."

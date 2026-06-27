@@ -1,20 +1,20 @@
 ---
-title: "Kasih yang Mengenbirakan dan Menguatkan (Filemon 1 : 4 - 7)"
+title: "Kasih yang Mengembirakan dan Menguatkan (Filemon 1 : 4 - 7)"
 post_date: "2026-06-27 17:17:59"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
     fifu_image_url: "https://i.pinimg.com/1200x/5a/c1/21/5ac121ab2910b7d1ba53219eb33e47bb.jpg"
-    _siteseo_analysis_target_kw: "Kasih yang Mengenbirakan dan Menguatkan (Filemon 1 : 4 - 7)"
-    _siteseo_titles_title: "Kasih yang Mengenbirakan dan Menguatkan (Filemon 1 : 4 - 7)"
+    _siteseo_analysis_target_kw: "Kasih yang Mengembirakan dan Menguatkan (Filemon 1 : 4 - 7)"
+    _siteseo_titles_title: "Kasih yang Mengembirakan dan Menguatkan (Filemon 1 : 4 - 7)"
     _siteseo_titles_desc: "Setiap manusia tentu membutuhkan kasih. Namun kita perlu menyadari bahwa tidak semua kasih memberikan kekuatan dan pengharapan."
 taxonomy:
     category:
         - renungan
 ---
 
-## Kasih yang Mengenbirakan dan Menguatkan
+## Kasih yang Mengembirakan dan Menguatkan
 
 ### (Filemon 1 : 4 - 7)
 

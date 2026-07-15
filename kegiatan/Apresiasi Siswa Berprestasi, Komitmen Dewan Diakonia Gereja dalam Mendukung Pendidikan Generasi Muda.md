@@ -24,6 +24,7 @@ Kegiatan tahunan ini berjalan dengan baik di bawah koordinasi dan kepemimpinan K
 Bentuk apresiasi yang diberikan berupa uang pembinaan dan piagam penghargaan. Penyerahan penghargaan dilakukan secara langsung oleh Pdt. Eko Marbun, S.Th, dengan didampingi oleh anggota dewan diakonia yang hadir, antara lain St. G. Situmorang dan R. Napitupulu.
 
 ![alt text for the image](/_images/Prestasi/prestasi2026_01.jpeg "Pemberian Apresiasi kepada Anak Jemaat Yang berprestasi 2026")
+<sup>Foto: Alboin Silalahi</sup>
 
 Apresiasi ini diberikan kepada Anak Jemaat yang berhasil meraih peringkat Juara 1 hingga Juara 3 di kelas atau sekolah masing-masing. Adapun kategori penerima penghargaan mencakup empat jenjang pendidikan formal, yaitu:
 

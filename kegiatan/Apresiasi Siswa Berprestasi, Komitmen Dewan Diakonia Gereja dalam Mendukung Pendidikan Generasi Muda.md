@@ -28,11 +28,8 @@ Bentuk apresiasi yang diberikan berupa uang pembinaan dan piagam penghargaan. Pe
 Apresiasi ini diberikan kepada Anak Jemaat yang berhasil meraih peringkat Juara 1 hingga Juara 3 di kelas atau sekolah masing-masing. Adapun kategori penerima penghargaan mencakup empat jenjang pendidikan formal, yaitu:
 
 - Taman Kanak-Kanak (TK)
-
 - Sekolah Dasar (SD)
-
 - Sekolah Menengah Pertama (SMP)
-
 - Sekolah Menengah Atas (SMA) / Sederajat
 
 Kehadiran para siswa dari berbagai jenjang pendidikan di depan Altar menunjukkan besarnya potensi yang dimiliki oleh generasi muda di dalam lingkungan pelayanan Gereja.

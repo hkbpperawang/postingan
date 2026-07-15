@@ -5,7 +5,7 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-    fifu_image_url: "https://docs.google.com/uc?export=view&id=1T3y3GlSlfAAfPSFTfaZN60jAw7T_1V8E"
+    fifu_image_url: "https://cdn.hkbpperawang.org/assets/uploads/prestasi2026_01.webp"
     _siteseo_analysis_target_kw: "Apresiasi Siswa Berprestasi, Siswa Berprestasi, Mendukung Pendidikan Generasi Muda"
     _siteseo_titles_title: "Apresiasi Siswa Berprestasi: Komitmen Dewan Diakonia Gereja dalam Mendukung Pendidikan Generasi Muda"
     _siteseo_titles_desc: "Ibadah Minggu pada tanggal 12 Juli 2026 menjadi momen yang istimewa bagi seluruh jemaat. Tepat setelah penyampaian khotbah selesai, Gereja menyelenggarakan kegiatan tahunan pemberian penghargaan bagi Anak Jemaat yang berprestasi di bidang akademis."
@@ -23,16 +23,16 @@ Kegiatan tahunan ini berjalan dengan baik di bawah koordinasi dan kepemimpinan K
 
 Bentuk apresiasi yang diberikan berupa uang pembinaan dan piagam penghargaan. Penyerahan penghargaan dilakukan secara langsung oleh Pdt. Eko Marbun, S.Th, dengan didampingi oleh Sintua St. B. br. Simaremare dan anggota dewan diakonia yang hadir, antara lain St. G. Situmorang dan R. Napitupulu.
 
-![alt text for the image](https://cdn.hkbpperawang.org/assets/uploads/apresiasi-siswa-berprestasi-komitmen-dewan-diakonia-gereja-dalam-mendukung-pendidikan-generasi-muda.webp "Pemberian Apresiasi kepada Anak Jemaat Yang berprestasi 2026")
-
-_Foto: Alboin Silalahi_
-
+![Pemberian Apresiasi kepada Anak Jemaat Yang berprestasi 2026](https://cdn.hkbpperawang.org/assets/uploads/apresiasi-siswa-berprestasi-komitmen-dewan-diakonia-gereja-dalam-mendukung-pendidikan-generasi-muda.webp "Pemberian Apresiasi kepada Anak Jemaat Yang berprestasi 2026 | Foto: Alboin Silalahi")
 
 Apresiasi ini diberikan kepada Anak Jemaat yang berhasil meraih peringkat Juara 1 hingga Juara 3 di kelas atau sekolah masing-masing. Adapun kategori penerima penghargaan mencakup empat jenjang pendidikan formal, yaitu:
 
 - Taman Kanak-Kanak (TK)
+
 - Sekolah Dasar (SD)
+
 - Sekolah Menengah Pertama (SMP)
+
 - Sekolah Menengah Atas (SMA) / Sederajat
 
 Kehadiran para siswa dari berbagai jenjang pendidikan di depan Altar menunjukkan besarnya potensi yang dimiliki oleh generasi muda di dalam lingkungan pelayanan Gereja.

@@ -4,7 +4,7 @@ post_date: "2026-07-15 17:48:00"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
-featured_image: _images/prestasi/prestasi2026_01.jpeg
+featured_image: _images/Prestasi/prestasi2026_01.jpeg
 custom_fields:
     fifu_image_url: ""
     _siteseo_analysis_target_kw: "Apresiasi Siswa Berprestasi, Siswa Berprestasi, Mendukung Pendidikan Generasi Muda"
@@ -23,7 +23,7 @@ Kegiatan tahunan ini berjalan dengan baik di bawah koordinasi dan kepemimpinan K
 
 Bentuk apresiasi yang diberikan berupa uang pembinaan dan piagam penghargaan. Penyerahan penghargaan dilakukan secara langsung oleh Pdt. Eko Marbun, S.Th, dengan didampingi oleh anggota dewan diakonia yang hadir, antara lain St. G. Situmorang dan R. Napitupulu.
 
-![alt text for the image](/_images/prestasi/prestasi2026_01.jpeg "Pemberian Apresiasi kepada Anak Jemaat Yang berprestasi 2026")
+![alt text for the image](/_images/Prestasi/prestasi2026_01.jpeg "Pemberian Apresiasi kepada Anak Jemaat Yang berprestasi 2026")
 
 Apresiasi ini diberikan kepada Anak Jemaat yang berhasil meraih peringkat Juara 1 hingga Juara 3 di kelas atau sekolah masing-masing. Adapun kategori penerima penghargaan mencakup empat jenjang pendidikan formal, yaitu:
 

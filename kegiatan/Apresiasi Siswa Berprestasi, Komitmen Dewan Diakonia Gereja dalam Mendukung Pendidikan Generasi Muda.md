@@ -5,7 +5,7 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-    fifu_image_url: "https://docs.google.com/uc?export=view&id=1T3y3GlSlfAAfPSFTfaZN60jAw7T_1V8E"
+    fifu_image_url: "/_images/Prestasi/prestasi2026_01.jpeg"
     _siteseo_analysis_target_kw: "Apresiasi Siswa Berprestasi, Siswa Berprestasi, Mendukung Pendidikan Generasi Muda"
     _siteseo_titles_title: "Apresiasi Siswa Berprestasi: Komitmen Dewan Diakonia Gereja dalam Mendukung Pendidikan Generasi Muda"
     _siteseo_titles_desc: "Ibadah Minggu pada tanggal 12 Juli 2026 menjadi momen yang istimewa bagi seluruh jemaat. Tepat setelah penyampaian khotbah selesai, Gereja menyelenggarakan kegiatan tahunan pemberian penghargaan bagi Anak Jemaat yang berprestasi di bidang akademis."
@@ -23,7 +23,7 @@ Kegiatan tahunan ini berjalan dengan baik di bawah koordinasi dan kepemimpinan K
 
 Bentuk apresiasi yang diberikan berupa uang pembinaan dan piagam penghargaan. Penyerahan penghargaan dilakukan secara langsung oleh Pdt. Eko Marbun, S.Th, dengan didampingi oleh Sintua St. B. br. Simaremare dan anggota dewan diakonia yang hadir, antara lain St. G. Situmorang dan R. Napitupulu.
 
-![alt text for the image](https://drive.usercontent.google.com/download?id=15cCaiapM16Mvh_ZchmEL3DGOCNR_S9T9 "Pemberian Apresiasi kepada Anak Jemaat Yang berprestasi 2026")
+![alt text for the image](/_images/Prestasi/prestasi2026_02.jpeg "Pemberian Apresiasi kepada Anak Jemaat Yang berprestasi 2026")
 
 _Foto: Alboin Silalahi_
 

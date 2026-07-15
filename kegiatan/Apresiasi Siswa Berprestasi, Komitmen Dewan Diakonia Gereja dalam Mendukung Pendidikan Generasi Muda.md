@@ -23,7 +23,7 @@ Kegiatan tahunan ini berjalan dengan baik di bawah koordinasi dan kepemimpinan K
 
 Bentuk apresiasi yang diberikan berupa uang pembinaan dan piagam penghargaan. Penyerahan penghargaan dilakukan secara langsung oleh Pdt. Eko Marbun, S.Th, dengan didampingi oleh Sintua St. B. br. Simaremare dan anggota dewan diakonia yang hadir, antara lain St. G. Situmorang dan R. Napitupulu.
 
-![alt text for the image](https://drive.usercontent.google.com/download?id=15cCaiapM16Mvh_ZchmEL3DGOCNR_S9T9 "Pemberian Apresiasi kepada Anak Jemaat Yang berprestasi 2026")
+![alt text for the image](https://cdn.hkbpperawang.org/assets/uploads/apresiasi-siswa-berprestasi-komitmen-dewan-diakonia-gereja-dalam-mendukung-pendidikan-generasi-muda.webp "Pemberian Apresiasi kepada Anak Jemaat Yang berprestasi 2026")
 
 _Foto: Alboin Silalahi_
 

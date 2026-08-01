@@ -1,6 +1,6 @@
 ---
 title: "Ibadah Minggu IX Dung Trinitatis (02-Ags-2026) - ID"
-post_date: "2026-08-01 20:31:01"
+post_date: "2026-08-01 20:32:01"
 post_excerpt: ""
 post_status: "publish"
 type: "post"

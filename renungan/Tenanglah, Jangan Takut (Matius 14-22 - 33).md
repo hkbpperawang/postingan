@@ -5,7 +5,7 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-    fifu_image_url: "https://i.pinimg.com/1200x/62/ce/04/62ce04391636afcddd8016bf822ede55.jpg"
+    fifu_image_url: "https://i.pinimg.com/1200x/d6/79/ad/d679ada07b50817d86fbc52cd1d44f3d.jpg"
     _siteseo_analysis_target_kw: "Tenanglah, Jangan Takut, Matius 14 : 22 - 33"
     _siteseo_titles_title: "Tenanglah, Jangan Takut (Matius 14 : 22 - 33)"
     _siteseo_titles_desc: "Ketakutan terbesar kita bukanlah ketika badai datang, melainkan ketika badai membuat kita tidak lagi mampu mengenali Tuhan yang sedang datang kepada kita."

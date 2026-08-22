@@ -5,7 +5,7 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-    fifu_image_url: "https://i.pinimg.com/1200x/07/77/36/077736490e90dafef39f3ea7375c7f54.jpg"
+    fifu_image_url: "https://i.pinimg.com/1200x/f2/a1/99/f2a199f4510c8358ff4ccc800c37eb13.jpg"
     _siteseo_analysis_target_kw: "Teguh Berpegang pada Kebenaran, Efesus 4 : 7 - 16"
     _siteseo_titles_title: "Teguh Berpegang pada Kebenaran ( Efesus 4 : 7 - 16 )"
     _siteseo_titles_desc: "Teguh Berpegang pada Kebenaran ( Efesus 4 : 7 - 16 ). Sebelum Yesus dimuliakan diatas gunung, ia terlebih dahulu berbicara tentang penderitaanNya."

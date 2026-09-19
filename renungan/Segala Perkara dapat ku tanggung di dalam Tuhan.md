@@ -8,7 +8,7 @@ custom_fields:
     fifu_image_url: "https://i.pinimg.com/1200x/bf/5a/89/bf5a895210079572ff6dbef130338559.jpg"
     _siteseo_analysis_target_kw: "Tuhan Melakukan Perbuatan Besar bagi UmatNya, Filippi 4 : 10 - 19"
     _siteseo_titles_title: "Segala Perkara dapat ku tanggung di dalam Tuhan (Filippi 4 : 10 - 19)"
-    _siteseo_titles_desc: "Segala Perkara dapat ku tanggung di dalam Tuhan (Filippi 4 : 10 - 19). Surat Filipi ditulis Paulus bukan dari tempat yang nyaman, melainkan dalam keadaan di penjara.
+    _siteseo_titles_desc: "Segala Perkara dapat ku tanggung di dalam Tuhan (Filippi 4 : 10 - 19). Surat Filipi ditulis Paulus bukan dari tempat yang nyaman, melainkan dalam keadaan di penjara."
 taxonomy:
     category:
         - renungan

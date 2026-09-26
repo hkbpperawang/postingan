@@ -1,6 +1,6 @@
 ---
 title: "Mataku tetap terarah kepada Tuhan ( Mazmur 25 : 15 - 22 )"
-post_date: "2026-09-29 03:03:00"
+post_date: "2026-09-27 03:03:00"
 post_excerpt: ""
 post_status: "publish"
 type: "post"

@@ -16,5 +16,5 @@ taxonomy:
         - ibadah-minggu
 ---
 <div>
-[embeddoc url="https://drive.google.com/file/d/1mt-fKySdYbBCeM2BzQMqGRQEhJ5d8Jin/preview?usp=drive_web" viewer="drive"]
+[embeddoc url="https://drive.google.com/file/d/1doydR9GiLo_cxhVDvFqt1qZCXMPHdJdQ/preview?usp=drive_web" viewer="drive"]
 </div>

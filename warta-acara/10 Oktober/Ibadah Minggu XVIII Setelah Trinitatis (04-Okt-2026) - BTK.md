@@ -1,5 +1,5 @@
 ---
-title: "Ibadah Minggu XVIII Dung Trinitatis + Pesta Gotilon (27-Sep-2026) - BTK"
+title: "Ibadah Minggu XVIII Dung Trinitatis + Pesta Gotilon (04-Okt-2026) - BTK"
 post_date: "2026-10-03 16:02:00"
 post_excerpt: ""
 post_status: "publish"

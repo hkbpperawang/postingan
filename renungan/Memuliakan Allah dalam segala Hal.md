@@ -1,11 +1,11 @@
 ---
 title: "Memuliakan Allah dalam segala Hal ( Titus 2 : 1 - 10 )"
-post_date: "2026-10-03 03:03:00"
+post_date: "2026-10-03 16:03:00"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-    fifu_image_url: "https://i.pinimg.com/1200x/b5/bf/c8/b5bfc841be6fdc8c7a57b4ee39323365.jpg"
+    fifu_image_url: "https://i.pinimg.com/1200x/34/5b/93/345b93d6ac72e4be6cc5d7e9e33285b6.jpg"
     _siteseo_analysis_target_kw: "Memuliakan Allah dalam segala Hal, Titus 2 : 1 - 10"
     _siteseo_titles_title: "Memuliakan Allah dalam segala Hal ( Titus 2 : 1 - 10 )"
     _siteseo_titles_desc: "Memuliakan Allah dalam segala Hal ( Titus 2 : 1 - 10 ). Jemaat yang dikasihi Tuhan, persoalan jemaat bukan sekadar kurang pengetahuan agama."

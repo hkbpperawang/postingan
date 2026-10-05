@@ -6,6 +6,7 @@ post_status: "publish"
 type: "post"
 custom_fields:
     fifu_image_url: "https://i.pinimg.com/1200x/d4/20/6a/d4206abec6d1d8302d6d050ee0a2ac42.jpg"
+    ast-featured-img: "https://i.pinimg.com/1200x/d4/20/6a/d4206abec6d1d8302d6d050ee0a2ac42.jpg"
     _siteseo_analysis_target_kw: "Tuhan Melakukan Perbuatan Besar bagi UmatNya, Keluaran 14 : 19 - 31"
     _siteseo_titles_title: "Tuhan Melakukan Perbuatan Besar bagi UmatNya ( Keluaran 14 : 19 - 31 )"
     _siteseo_titles_desc: "Tuhan Melakukan Perbuatan Besar bagi UmatNya ( Keluaran 14 : 19 - 31 ). Ada sesuatu yang sangat menarik dalam kisah Keluaran 14: Israel mengalami pertolongan Tuhan bukan karena mereka menemukan jalan keluar."
@@ -14,7 +15,7 @@ taxonomy:
         - renungan
 ---
 
-## Tuhan Melakukan Perbuatan Besar bagi UmatNya 
+## Tuhan Melakukan Perbuatan Besar bagi UmatNya
 
 ### (Keluaran 14 : 19 - 31)
 

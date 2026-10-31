@@ -1,5 +1,5 @@
 ---
-title: "Ibadah Minggu XXII Dung Trinitatis (01-Nov-2026) - ID"
+title: "Ibadah Minggu XXII Dung Trinitatis (01-Nov-2026) - BTK"
 post_date: "2026-10-31 17:02:00"
 post_excerpt: ""
 post_status: "publish"

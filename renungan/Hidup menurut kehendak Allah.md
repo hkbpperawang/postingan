@@ -5,7 +5,7 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-    fifu_image_url: "https://i.pinimg.com/1200x/61/1a/b7/611ab7d51a4decaaccf0d1dbcb712a29.jpg"
+    fifu_image_url: "https://i.pinimg.com/1200x/4d/d4/88/4dd4888ec4d38d7ad08b62601de27e64.jpg"
     _siteseo_analysis_target_kw: "Hidup menurut kehendak Allah, 1 Tessalonik 2 : 8 - 12"
     _siteseo_titles_title: "Hidup menurut kehendak Allah (1 Tessalonik 2 : 8 - 12)"
     _siteseo_titles_desc: "Hidup menurut kehendak Allah (1 Tessalonik 2 : 8 - 12) - Kita sering berpikir bahwa kehendak Allah adalah sebuah peta rahasia yang sulit ditemukan, atau daftar tugas rohani yang melelahkan."

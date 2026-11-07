@@ -11,7 +11,7 @@ custom_fields:
     _siteseo_titles_desc: "Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya"
 taxonomy:
     category:
-        - karya-tulis
+        - bacaan
 ---
 
 ## Bijak Klik, Jaga Hati: Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya

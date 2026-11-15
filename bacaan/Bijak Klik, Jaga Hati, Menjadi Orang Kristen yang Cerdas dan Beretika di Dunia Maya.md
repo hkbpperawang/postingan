@@ -5,16 +5,14 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-    fifu_image_url: "https://i.pinimg.com/1200x/7c/77/7b/7c777bb8c46cb1584969be9afe36d362.jpg"
-    _siteseo_analysis_target_kw: "Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya"
-    _siteseo_titles_title: "Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya"
-    _siteseo_titles_desc: "Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya"
+  fifu_image_url: "https://i.pinimg.com/1200x/7c/77/7b/7c777bb8c46cb1584969be9afe36d362.jpg"
+  _siteseo_analysis_target_kw: "menjadi orang Kristen yang cerdas dan beretika di dunia digital, jaga keamanan data pribadi, etika…"
+  _siteseo_titles_title: "Bijak Klik, Jaga Hati: Menjadi Orang Kristen yang Cerdas…"
+  _siteseo_titles_desc: "Jaga keamanan data pribadi dan etika di media sosial, menjadi Kristen yang baik di dunia digital"
 taxonomy:
-    category:
-        - bacaan
+  category:
+    - bacaan
 ---
-
-## Bijak Klik, Jaga Hati: Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya
 
 Bangun tidur, apa hal pertama yang biasanya kita cari? Jujur saja, kebanyakan dari kita pasti langsung meraba kasur mencari smartphone. Sebelum sempat berdoa atau minum air putih, mata kita sudah disuguhi ratusan informasi dari WhatsApp, Instagram, TikTok, hingga X. Dunia digital bukan lagi sekadar "dunia maya" yang terpisah dari kehidupan nyata, melainkan sudah menjadi ruang tamu, tempat nongkrong, sekaligus pasar tempat kita berinteraksi setiap hari.
 

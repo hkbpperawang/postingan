@@ -11,7 +11,7 @@ custom_fields:
     _siteseo_titles_desc: "Menjadi Jemaat yang Cerdas dan Bijak dalam Menggunakan AI. Jemaat yang dikasihi Tuhan, persoalan jemaat bukan sekadar kurang pengetahuan agama."
 taxonomy:
     category:
-        - renungan
+        - bacaan
 ---
 
 ## Menjadi Jemaat yang Cerdas dan Bijak dalam Menggunakan AI

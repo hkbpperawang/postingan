@@ -1,7 +1,7 @@
 ---
 title: "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20)"
-post_date: "2026-05-31 06:28:59"
-post_excerpt: "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20) Kita ingin mengikuti Tuhan, tetapi hati penuh pertanyaan. Kenapa demikian? …"
+post_date: "2026-05-31 06:28:00"
+post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:

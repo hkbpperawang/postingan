@@ -5,8 +5,8 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-  fifu_image_url: "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7987.jpg"
-  _siteseo_analysis_target_kw: "Panitia Konser Mini HKBP Perawang 2025"
+  fifu_image_url: "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/panitia-konser-mini-2025.webp"
+  _siteseo_analysis_target_kw: "Panitia Konser, konser mini, konser hkbp perawang, konser mini hkbp, konser mini hkbp perawang 2025, konser mini 2025"
   _siteseo_titles_title: "Panitia Konser Mini HKBP Perawang 2025"
   _siteseo_titles_desc: "Dokumentasi kegiatan dan susunan panitia Konser Mini HKBP Perawang tahun 2025. Simak keseruan persiapan pelayanan musik gereja kami."
 taxonomy:

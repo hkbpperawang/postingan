@@ -1,11 +1,11 @@
 ---
 title: "Tuhan Memberkati dan Melindungi Engkau (Bilangan 6 : 22 – 27)"
-post_date: "2026-05-17 03:27:42"
-post_excerpt: "Banyak orang zaman sekarang percaya bahwa hidup ditentukan oleh hoki, relasi, jabatan atau kerja keras.Usaha memang sangat penting, tetapi Alkitab …"
+post_date: "2026-05-17 03:27:00"
+post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-  fifu_image_url: "https://cdn.hkbpperawang.org/assets/uploads/jesus-with-his-disciples.webp"
+  fifu_image_url: "https://i.pinimg.com/1200x/57/ac/f4/57acf418e24a959d690f6d4a85718868.jpg"
   _siteseo_analysis_target_kw: "Tuhan Memberkati dan Melindungi Engkau (Bilangan 6 : 22 – 27)"
   _siteseo_titles_title: "Tuhan Memberkati dan Melindungi Engkau (Bilangan 6 : 22 – 27)"
   _siteseo_titles_desc: "Banyak orang zaman sekarang percaya bahwa hidup ditentukan oleh hoki, relasi, jabatan atau kerja keras.Usaha memang sangat penting, tetapi Alkitab …"

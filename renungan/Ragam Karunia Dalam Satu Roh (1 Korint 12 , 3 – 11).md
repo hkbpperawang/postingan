@@ -1,11 +1,11 @@
 ---
 title: "Ragam Karunia Dalam Satu Roh (1 Korint 12 : 3 – 11)"
-post_date: "2026-05-24 08:23:01"
-post_excerpt: "Dunia terus mendorong manusia untuk percaya bahwa kekuatan utama ada pada diri sendiri. Kemajuan teknologi, pendidikan, uang, jabatan dan pencapaian …"
+post_date: "2026-05-24 08:23:00"
+post_excerpt: ""
 post_status: "publish"
 type: "post"
 custom_fields:
-  fifu_image_url: "https://cdn.hkbpperawang.org/assets/uploads/download-12.webp"
+  fifu_image_url: "https://i.pinimg.com/236x/a9/c3/d0/a9c3d0320eada4960c0c484ffa4fce90.jpg"
   _siteseo_analysis_target_kw: "Ragam Karunia Dalam Satu Roh (1 Korint 12 : 3 – 11)"
   _siteseo_titles_title: "Ragam Karunia Dalam Satu Roh (1 Korint 12 : 3 – 11)"
   _siteseo_titles_desc: "Dunia terus mendorong manusia untuk percaya bahwa kekuatan utama ada pada diri sendiri. Kemajuan teknologi, pendidikan, uang, jabatan dan pencapaian …"
